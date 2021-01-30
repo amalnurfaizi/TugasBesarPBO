@@ -35,8 +35,8 @@ Pemograman Diagnosis Penyakit Batuk berisi sebagai berikut:
  - ~Buat Program Java Script~
  - ~Check kelengkapan kode~
  - ~Membuat laporan~
- - Upload Ke Github
+ - ~Upload Ke Github~
  - ~Mempersiapkan Materi untuk Presentasi~
- - Presentasi
- - Membuat video
- - Upload ke youtoube
+ - ~Presentasi~
+ - ~Membuat video~
+ - ~Upload ke youtoube~
