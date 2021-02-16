@@ -40,3 +40,7 @@ Pemograman Diagnosis Penyakit Batuk berisi sebagai berikut:
  - ~Presentasi~
  - ~Membuat video~
  - ~Upload ke youtoube~
+ 
+ ### LINK YOUTUBE
+ https://youtu.be/ecd3FM9x9zU
+ https://youtu.be/GJbftgUD0Cs
